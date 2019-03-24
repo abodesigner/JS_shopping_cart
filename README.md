@@ -1,2 +1,2 @@
-# js-cart-setup
+# js-shopping-cart-project
 ADD ITEMS TO CART USING JAVASCRIPT PROJECT
